@@ -1,0 +1,5 @@
+tqdm
+scienceplots
+torch
+torchvision
+numpy
