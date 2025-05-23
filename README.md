@@ -16,6 +16,11 @@ Make sure you have **Python 3.8 or later** installed.
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
 ```
+or in conda environment
+```bash
+conda create -n LinearDAE python=3.9
+conda activate LinearDAE
+```
 
 ### 1.3. Install Required Packages
 
